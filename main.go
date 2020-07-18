@@ -1,12 +1,6 @@
-package main
-
-import "fmt"
+package mymath
 
 //MyAdd : add numbers
 func MyAdd(x, y int) int {
 	return x + y
-}
-
-func main() {
-	fmt.Println(123)
 }
